@@ -1,0 +1,80 @@
+Start first experiment. Insertion only
+=================================
+Exp1, #trails is 100000: 
+.......finish creating the operation array for insertion
+The running time for the Treap on 100000 trails is: 0.046818
+The running time for the Dynamic Array on 100000 trails is: 0.001773
+=================================
+Exp1, #trails is 200000: 
+.......finish creating the operation array for insertion
+The running time for the Treap on 200000 trails is: 0.090273
+The running time for the Dynamic Array on 200000 trails is: 0.003096
+=================================
+Exp1, #trails is 500000: 
+.......finish creating the operation array for insertion
+The running time for the Treap on 500000 trails is: 0.324146
+The running time for the Dynamic Array on 500000 trails is: 0.009525
+=================================
+Exp1, #trails is 800000: 
+.......finish creating the operation array for insertion
+The running time for the Treap on 800000 trails is: 0.647660
+The running time for the Dynamic Array on 800000 trails is: 0.017208
+=================================
+Exp1, #trails is 1000000: 
+.......finish creating the operation array for insertion
+The running time for the Treap on 1000000 trails is: 0.893221
+The running time for the Dynamic Array on 1000000 trails is: 0.017759
+End first experiment.
+
+
+Start second experiment.Insertion and Deletion
+.......finish creating the operation array for deletion and insertion
+The percentage of deletion is roughly about 0.000998.
+The running time for the Treap is: 0.919412
+The running time for the Dynamic Array is: 0.795392
+.......finish creating the operation array for deletion and insertion
+The percentage of deletion is roughly about 0.004994.
+The running time for the Treap is: 1.013102
+The running time for the Dynamic Array is: 4.475849
+.......finish creating the operation array for deletion and insertion
+The percentage of deletion is roughly about 0.009923.
+The running time for the Treap is: 0.933613
+The running time for the Dynamic Array is: 8.417541
+.......finish creating the operation array for deletion and insertion
+The percentage of deletion is roughly about 0.049854.
+The running time for the Treap is: 0.993824
+The running time for the Dynamic Array is: 38.541896
+.......finish creating the operation array for deletion and insertion
+The percentage of deletion is roughly about 0.100349.
+The running time for the Treap is: 1.025768
+The running time for the Dynamic Array is: 70.482737
+End second experiment.
+
+
+Start third experiment. Insertion and Search
+.......finish creating the operation array for search and insertion
+The percentage of search is roughly about 0.000967.
+The running time for the Treap is: 1.314934
+There are 0 elements that are actually in the treap, about 0.000000.
+The running time for the Dynamic Array is: 1.099385
+There are 40 elements that are actually in the dynamic array, about 0.000040.
+.......finish creating the operation array for search and insertion
+The percentage of search is roughly about 0.005096.
+The running time for the Treap is: 1.269952
+There are 0 elements that are actually in the treap, about 0.000000.
+The running time for the Dynamic Array is: 5.263614
+There are 264 elements that are actually in the dynamic array, about 0.000264.
+.......finish creating the operation array for search and insertion
+The percentage of search is roughly about 0.010083.
+The running time for the Treap is: 1.090976
+There are 0 elements that are actually in the treap, about 0.000000.
+The running time for the Dynamic Array is: 10.074420
+There are 489 elements that are actually in the dynamic array, about 0.000489.
+.......finish creating the operation array for search and insertion
+The percentage of search is roughly about 0.050047.
+The running time for the Treap is: 1.082633
+There are 0 elements that are actually in the treap, about 0.000000.
+The running time for the Dynamic Array is: 50.590843
+There are 2403 elements that are actually in the dynamic array, about 0.002403.
+.......finish creating the operation array for search and insertion
+The percentage of search is roughly about 0.100091
